@@ -1,0 +1,10 @@
+compile_commands.json
+build
+out
+run_tree
+
+.cache
+.vs
+.vscode
+.idea
+.clangd
